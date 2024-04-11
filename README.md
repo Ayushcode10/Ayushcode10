@@ -33,4 +33,6 @@ src="https://img.shields.io/twitter/follow/brokennbadd?logo=twitter&style=for-th
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Ayushh-10"><img src="https://github-readme-stats.vercel.app/api?username=Ayushh-10&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ayushh-10's GitHub stats" /></a>
+<a href="http://www.github.com/
+Ayushcode10"><img src="https://github-readme-stats.vercel.app/api?username=
+Ayushcode10&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ayushcode10's GitHub stats" /></a>
