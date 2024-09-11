@@ -8,7 +8,8 @@ As a Student of Computer Science and a lifelong learner in the ever-evolving wor
 
 * 🌍  I'm based in Delhi, India
 * ✉️  You can contact me at [ayushh.code@gmail.com](mailto:ayushh.code@gmail.com)
-* 🧠  I'm currently learning JavaScript
+* 🧠  I'm currently pursuing machine learning 
+* 🧠  I'm also currently practising DSA
 * 🤝  I'm open to collaborating on fullstack web dev projects
 * ⚡  I am Spiderman who doesn't know how to make spider-webs :(
 
