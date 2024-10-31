@@ -1,9 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ayush Saxena
 ====================================================================================================================================
 
-FullStack Web developer and Programmer
----------------------------------------
-
 As a Student of Computer Science and a lifelong learner in the ever-evolving world of technology, I thrive on the thrill of problem-solving and the art of turning complex challenges into elegant, scalable solutions. My journey in the realms of Web development and Computer Programming has been an exhilarating exploration, each project a story of growth and innovation.
 
 * 🌍  I'm based in Delhi, India
