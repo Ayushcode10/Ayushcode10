@@ -11,7 +11,6 @@
 - 🤖 Currently diving deep into Machine Learning
 - 📈 Practicing DSA daily to improve problem-solving
 - 🤝 Open to collaborations on impactful tech projects
-- 🌐 I'm into Fullstack Web Development
 - 🕸️ Fun Fact: I’m Spiderman without the webs, still building mine in code 😉
 
 ---
